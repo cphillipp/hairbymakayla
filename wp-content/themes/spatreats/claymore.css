@@ -17,6 +17,10 @@ border-bottom: 5px solid #000000 !important;
 ul.menu li a span {
 color: #eae2c9 !important;
 }
+#searchform input[type="text"] {
+background: #f9f9f9 !important;
+color: #2e3338;
+}
 #home-slider {
 background-image:none !important;
 background:none !important;

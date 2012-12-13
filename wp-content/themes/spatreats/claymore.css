@@ -57,9 +57,11 @@ background: #232323 url(images/quote.png) 10px 15px no-repeat;
 background-color: #232323 !important; 
 }
 .box-content {
-background: #232323 !important;
+background: #eae2c9 !important;
 border-bottom: 5px solid #666666 !important;
 }
+.box-content h2 { color:#000 !important; }
+.box-content p { color:#343434 !important; }
 .readmore {
 background-color: #666666 !important;
 }

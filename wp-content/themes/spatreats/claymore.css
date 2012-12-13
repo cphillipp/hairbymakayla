@@ -53,7 +53,13 @@ background-color: #232323 !important;
 }
 .box-content {
 background: #232323 !important;
-border-bottom: 5px solid #bfb092;
+border-bottom: 5px solid #666666 !important;
+}
+.readmore {
+background-color: #666666 !important;
+}
+.readmore:hover {
+background-color: #454545 !important;
 }
 .footer-bottom p {
 color: #666666 !important;

@@ -1,0 +1,131 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*----*****---- << Responsive >> ----*****----*/	
+
+	/*----*****---- << Smaller than standard 960 >> ----*****----*/	
+	
+	/* Smaller than standard 960 (devices and browsers) */
+	
+	@media only screen and (max-width:1200px) {
+		
+		/*----*****---- << Newsletter >> ----*****----*/
+		#newsletter { background:url(images/newsletter-bg-medium.png) no-repeat; }
+		
+		/*----*****---- << Headings >> ----*****----*/
+		h1.title, h2.title, h3.title, h4.title, h5.title, h6.title { background:none; }
+		.one-fourth h1.title, .one-fourth h2.title, .one-fourth h3.title, .one-fourth h4.title, .one-fourth h5.title, .one-fourth h6.title { background:none; }
+		.one-half h1.title, .one-half h2.title, .one-half h3.title, .one-half h4.title, .one-half h5.title, .one-half h6.title { background:none; }
+		.one-third h1.title, .one-third h2.title, .one-third h3.title, .one-third h4.title, .one-third h5.title, .one-third h6.title { background:none; }
+		.three-fourth h1.title, .three-fourth h2.title, .three-fourth h3.title, .three-fourth h4.title, .three-fourth h5.title, .three-fourth h6.title { background:none; }
+		.two-third h1.title, .two-third h2.title, .two-third h3.title, .two-third h4.title, .two-third h5.title, .two-third h6.title { background:none; }
+		
+	}
+		
+	/*----*****---- << Tablet (Portrait) >> ----*****----*/	
+	
+    /* Note: Design for a width of 768px, Gutter: 30px, Unit: 32px */
+
+    @media only screen and (min-width: 768px) and (max-width: 959px) {
+		
+		/*----*****---- << Header >> ----*****----*/
+		#top-menu { background:url(images/menu-bg-tablet.jpg) repeat-x; }
+		
+		/*----*****---- << Newsletter >> ----*****----*/
+		#newsletter { background:url(images/newsletter-bg-tablet.png) no-repeat; }
+		
+		/*----*****---- << Headings >> ----*****----*/
+		h1.title, h2.title, h3.title, h4.title, h5.title, h6.title { background:none; }
+		.one-fourth h1.title, .one-fourth h2.title, .one-fourth h3.title, .one-fourth h4.title, .one-fourth h5.title, .one-fourth h6.title { background:none; }
+		.one-half h1.title, .one-half h2.title, .one-half h3.title, .one-half h4.title, .one-half h5.title, .one-half h6.title { background:none; }
+		.one-third h1.title, .one-third h2.title, .one-third h3.title, .one-third h4.title, .one-third h5.title, .one-third h6.title { background:none; }
+		.three-fourth h1.title, .three-fourth h2.title, .three-fourth h3.title, .three-fourth h4.title, .three-fourth h5.title, .three-fourth h6.title { background:none; }
+		.two-third h1.title, .two-third h2.title, .two-third h3.title, .two-third h4.title, .two-third h5.title, .two-third h6.title { background:none; }
+		
+	}
+	
+	/*----*****---- << Mobile (Landscape) >> ----*****----*/	
+	
+    /* Note: Design for a width of 480px */
+
+    @media only screen and (min-width: 480px) and (max-width: 767px) {
+		
+		/*----*****---- << Header >> ----*****----*/
+		#header { background:url(images/header.jpg) left top repeat-x; }
+		#top-menu { background:none; }
+		
+		.nivo-caption { left:60px; width:200px; top:30%; }
+		
+		/*----*****---- << Newsletter >> ----*****----*/
+		#newsletter { background:url(images/newsletter-bg-mobile.png) no-repeat; }	
+		
+		#top-menu .responsive-nav { background-image:url(images/responsive-nav-bg.png); margin-top:30px; background-color:#fdfaeb; border-bottom-color:#2f271e; color:#362922; }
+		#logo { margin-top:10px; }
+		
+		/*----*****---- << Gallery >> ----*****----*/	
+		.gallery-details-inner .no-margin.column.two-third { border-top:1px solid #f2e8c3; }
+		
+		/*----*****---- << Headings >> ----*****----*/
+		h1.title, h2.title, h3.title, h4.title, h5.title, h6.title { background:none; }
+		.one-fourth h1.title, .one-fourth h2.title, .one-fourth h3.title, .one-fourth h4.title, .one-fourth h5.title, .one-fourth h6.title { background:none; }
+		.one-half h1.title, .one-half h2.title, .one-half h3.title, .one-half h4.title, .one-half h5.title, .one-half h6.title { background:none; }
+		.one-third h1.title, .one-third h2.title, .one-third h3.title, .one-third h4.title, .one-third h5.title, .one-third h6.title { background:none; }
+		.three-fourth h1.title, .three-fourth h2.title, .three-fourth h3.title, .three-fourth h4.title, .three-fourth h5.title, .three-fourth h6.title { background:none; }
+		.two-third h1.title, .two-third h2.title, .two-third h3.title, .two-third h4.title, .two-third h5.title, .two-third h6.title { background:none; }
+		
+	}
+	
+	/*----*****---- << Mobile >> ----*****----*/	
+
+	/* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
+	@media only screen and (max-width: 479px) {
+		
+		/*----*****---- << Header >> ----*****----*/
+		#header { background:url(images/header.jpg) left top repeat-x; }
+		#top-menu { background:none; }
+		
+		.nivo-caption { display:none !important; }
+		
+		/*----*****---- << Newsletter >> ----*****----*/
+		#newsletter { background:url(images/newsletter-bg-mobile-port.png) no-repeat; }
+			
+		/*----*****---- << 404 >> ----*****----*/
+		.back-btn { background:url(images/back-btn-mobile.png) no-repeat; }
+		
+		#top-menu .responsive-nav { background-image:url(images/responsive-nav-bg.png); margin-top:30px; background-color:#fdfaeb; border-bottom-color:#2f271e; color:#362922; }
+		#logo { margin-top:10px; }
+		
+		/*----*****---- << Gallery >> ----*****----*/	
+		.gallery-details-inner .no-margin.column.two-third { border-top:1px solid #f2e8c3; }
+		
+		/*----*****---- << Headings >> ----*****----*/
+		h1.title, h2.title, h3.title, h4.title, h5.title, h6.title { background:none; }
+		.one-fourth h1.title, .one-fourth h2.title, .one-fourth h3.title, .one-fourth h4.title, .one-fourth h5.title, .one-fourth h6.title { background:none; }
+		.one-half h1.title, .one-half h2.title, .one-half h3.title, .one-half h4.title, .one-half h5.title, .one-half h6.title { background:none; }
+		.one-third h1.title, .one-third h2.title, .one-third h3.title, .one-third h4.title, .one-third h5.title, .one-third h6.title { background:none; }
+		.three-fourth h1.title, .three-fourth h2.title, .three-fourth h3.title, .three-fourth h4.title, .three-fourth h5.title, .three-fourth h6.title { background:none; }
+		.two-third h1.title, .two-third h2.title, .two-third h3.title, .two-third h4.title, .two-third h5.title, .two-third h6.title { background:none; }
+		
+		
+	}
+
+	/*----*****---- << Mobile >> ----*****----*/	
+
+	/* Crappy Android portrait Size (devices and browsers) */
+	@media only screen and (max-width:320px) {
+		
+		/*----*****---- << Newsletter >> ----*****----*/
+		#newsletter { background:url(images/newsletter-bg-android.png) no-repeat; }
+		
+		.post-thumb img { border-width:3px; }
+		
+		/*----*****---- << Headings >> ----*****----*/
+		h1.title, h2.title, h3.title, h4.title, h5.title, h6.title { background:none; }
+		.one-fourth h1.title, .one-fourth h2.title, .one-fourth h3.title, .one-fourth h4.title, .one-fourth h5.title, .one-fourth h6.title { background:none; }
+		.one-half h1.title, .one-half h2.title, .one-half h3.title, .one-half h4.title, .one-half h5.title, .one-half h6.title { background:none; }
+		.one-third h1.title, .one-third h2.title, .one-third h3.title, .one-third h4.title, .one-third h5.title, .one-third h6.title { background:none; }
+		.three-fourth h1.title, .three-fourth h2.title, .three-fourth h3.title, .three-fourth h4.title, .three-fourth h5.title, .three-fourth h6.title { background:none; }
+		.two-third h1.title, .two-third h2.title, .two-third h3.title, .two-third h4.title, .two-third h5.title, .two-third h6.title { background:none; }
+		
+		
+	}

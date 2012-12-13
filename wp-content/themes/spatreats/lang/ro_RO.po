@@ -1,0 +1,993 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SpaTreats\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-09-13 17:23+0530\n"
+"PO-Revision-Date: 2012-09-13 18:23+0530\n"
+"Last-Translator: \n"
+"Language-Team: Iamdesigning <ram@iamdesigning.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: D:\\wamp\\www\\wp\\themes\\spatreats\\wp-content"
+"\\themes\\spatreats\n"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/404.php:7
+msgid "Probably 404!"
+msgstr "Probabil 404!"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/404.php:9
+msgid "Back"
+msgstr "înapoi"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/archive.php:10
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/index.php:29
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/search.php:29
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/tpl-gallery.php:147
+msgid "Nothing Found"
+msgstr "nimic găsit"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/archive.php:11
+msgid "Apologies, but no results were found for the requested archive."
+msgstr ""
+"Ne cerem scuze, dar nu au fost găsite rezultate pentru arhiva solicitat."
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/comments.php:2
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+"Acest post este protejat de parolă. Introduceți parola pentru a vizualiza "
+"orice comentarii."
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/comments.php:5
+msgid "No Comments"
+msgstr "Nu sunt Comentarii"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/comments.php:5
+msgid "1 Comment"
+msgstr "1 Comentariu"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/comments.php:5
+msgid "% Comments"
+msgstr "Comentarii%"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/comments.php:11
+msgid "Older Comments"
+msgstr "Comentarii mai mari"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/comments.php:12
+msgid "Newer Comments"
+msgstr "Mai nou Comentarii"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/comments.php:24
+msgid "Comments are closed."
+msgstr "Comentariile sunt închise."
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/comments.php:32
+msgid "Reply"
+msgstr "răspunde"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/comments.php:34
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_shortcodes/enquiry_form.php:12
+msgid "Name"
+msgstr "nume"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/comments.php:35
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/tpl-booknow.php:36
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_shortcodes/enquiry_form.php:13
+msgid "Email"
+msgstr "Trimiteți e-mail"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/comments.php:38
+msgid "Comment"
+msgstr "comentariu"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/comments.php:39
+msgid "comment"
+msgstr "comentariu"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/footer.php:5
+msgid "Subscribe to Newsletter"
+msgstr "Aboneaza-te la Newsletter"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/index.php:8
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/search.php:8
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/single.php:14
+msgid "Categories"
+msgstr "categorii"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/index.php:9
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/search.php:9
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/single.php:15
+msgid "Archive"
+msgstr "arhivă"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/index.php:30
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/search.php:30
+msgid "Apologies, but no posts found in blog."
+msgstr "Ne cerem scuze, dar nu o postare găsită în blog."
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/searchform.php:1
+msgid "Search our site"
+msgstr "Căutați site-ul nostru"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/tpl-booknow.php:27
+msgid "First Name"
+msgstr "Prenume"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/tpl-booknow.php:28
+msgid "Last Name"
+msgstr "nume"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/tpl-booknow.php:29
+msgid "Gender"
+msgstr "gen"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/tpl-booknow.php:31
+msgid "Male"
+msgstr "bărbat"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/tpl-booknow.php:32
+msgid "Female"
+msgstr "femeie"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/tpl-booknow.php:35
+msgid "Telephone"
+msgstr "telefon"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/tpl-booknow.php:37
+msgid "Address"
+msgstr "adresă"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/tpl-booknow.php:38
+msgid "Date of Treatment"
+msgstr "Data Tratamentul"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/tpl-booknow.php:40
+msgid "Day"
+msgstr "zi"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/tpl-booknow.php:54
+msgid "Month"
+msgstr "lună"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/tpl-booknow.php:62
+msgid "Year"
+msgstr "an"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/tpl-booknow.php:66
+msgid "Preferred time"
+msgstr "preferată de timp"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/tpl-booknow.php:68
+msgid "Time"
+msgstr "timp"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/tpl-booknow.php:83
+msgid "Type of Treatment"
+msgstr "Tip de tratament"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/tpl-booknow.php:92
+msgid "No. of Persons "
+msgstr "Numar de persoane"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/tpl-booknow.php:96
+msgid "Special Requests"
+msgstr "Cereri speciale"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/tpl-booknow.php:100
+msgid "Book Now"
+msgstr "Rezervați acum"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/tpl-gallery.php:75
+msgid "All"
+msgstr "toate"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/tpl-gallery.php:148
+msgid "Apologies, but no items found in our gallery."
+msgstr "Ne cerem scuze, dar nici un produs găsit în galeria noastră."
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/ajax_calls.php:57
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/loops/content-single-gallery.php:21
+msgid "Prev"
+msgstr "Anterior"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/ajax_calls.php:57
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/loops/content-single-gallery.php:21
+msgid "Next"
+msgstr "următor"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/utils.php:17
+msgid "Tag archive for"
+msgstr "Arhiva tag-ul pentru"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/utils.php:20
+msgid "Category archive for"
+msgstr "Arhiva pentru categoria"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/utils.php:26
+msgid "Search for"
+msgstr "Căutați"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/utils.php:35
+msgid "Not Found"
+msgstr "nu a fost găsit"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/utils.php:133
+msgid "Archive for Category: "
+msgstr "Arhiva pentru categoria:"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/utils.php:138
+msgid "Archive for Author: "
+msgstr "Arhiva pentru Autor:"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/utils.php:141
+msgid "Archive for Tag: "
+msgstr "Arhiva pentru Tag:"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/utils.php:143
+msgid "LOST"
+msgstr "PIERDUT"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/utils.php:145
+msgid "Search"
+msgstr "Căutați"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/utils.php:181
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/utils.php:183
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/utils.php:217
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/loops/content-page.php:8
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/loops/content-search.php:50
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/loops/content-single-gallery.php:34
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/loops/content-single.php:61
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/loops/content.php:51
+msgid "Edit"
+msgstr "edita"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/utils.php:205
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s at %2$s"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/utils.php:215
+msgid "Your comment is awaiting moderation."
+msgstr "Comentariul dvs. este în așteptarea moderare."
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/loops/content-releated-gallery.php:15
+msgid " Related Posts "
+msgstr "Legate de posturi"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/loops/content-search.php:6
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/loops/content.php:5
+msgid "Featured"
+msgstr "Featured"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/loops/content-search.php:9
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/loops/content.php:9
+msgid "Read More"
+msgstr "Citeste mai mult"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/loops/content-single-gallery.php:27
+msgid "Prev Post"
+msgstr "Anterior Mesaj"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/loops/content-single-gallery.php:28
+msgid "Next Post"
+msgstr "Urmatorul Mesaj"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/meta_boxes/gallery_metabox.php:4
+msgid "Gallery Images Settings"
+msgstr "Galerie Imagini Setări"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/meta_boxes/gallery_metabox.php:14
+msgid "Currently used images"
+msgstr "Imaginile utilizate în prezent"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/meta_boxes/gallery_metabox.php:15
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:269
+msgid "Please, add some sliders"
+msgstr "Te rog, adăuga unele glisoarele"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/meta_boxes/gallery_metabox.php:34
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:314
+msgid "Choose effects:"
+msgstr "Alege efecte:"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/meta_boxes/gallery_metabox.php:45
+msgid "Add Image"
+msgstr "Adauga Imagine"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/meta_boxes/page_template_metabox.php:15
+msgid ""
+"Additional settings appear here, when one of page templates is selected "
+"( Page Attributes -> Template )"
+msgstr ""
+"Setări suplimentare apar aici, atunci când unul dintre template-uri de "
+"pagini este selectat (Atribute pagină -> Template)"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/meta_boxes/page_template_metabox.php:17
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/meta_boxes/page_template_metabox.php:29
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/meta_boxes/page_template_metabox.php:90
+msgid "Full Width Page"
+msgstr "Intreg Lățime pagină"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/meta_boxes/page_template_metabox.php:22
+msgid "Email id:"
+msgstr "E-mail id:"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/meta_boxes/page_template_metabox.php:24
+msgid "Please give email id to whom , you need to send book now requests."
+msgstr ""
+"Vă rugăm să dau id-ul de e-mail la care, aveți nevoie pentru a trimite "
+"cereri de rezervă acum."
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/meta_boxes/page_template_metabox.php:36
+msgid "Gallery Columns"
+msgstr "Galerie coloane"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/meta_boxes/page_template_metabox.php:37
+msgid "How many columns should be displayed?"
+msgstr "Câte coloane trebuie să fie afișate?"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/meta_boxes/page_template_metabox.php:42
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:443
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_widgets/widget_custom_post.php:32
+msgid "Select"
+msgstr "selecta"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/meta_boxes/page_template_metabox.php:49
+msgid "Which categories should be used for the gallery?"
+msgstr "Ce categorie ar trebui să fie utilizate pentru galerie?"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/meta_boxes/page_template_metabox.php:50
+msgid ""
+"You can select multiple categories here. The Gallrey Page that you choose "
+"below will then show all posts from those categories, along with a sort "
+"option for each category."
+msgstr ""
+"Puteți selecta mai multe categorii aici.Pagina Gallrey pe care o alegeți de "
+"mai jos va afișa apoi toate mesajele de la aceste categorii, împreună cu o "
+"opțiune de sortare pentru fiecare categorie."
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/meta_boxes/page_template_metabox.php:67
+msgid "Gallery Details?"
+msgstr "Detalii galerie?"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/meta_boxes/page_template_metabox.php:68
+msgid ""
+"Should the gallery details be opened on the same page when someone clicks a "
+"gallery item - known as AJAX Gallery?"
+msgstr ""
+"În cazul în care detaliile galerie fi deschise pe aceeași pagină atunci când "
+"cineva face clic pe un element galerie - cunoscut sub numele de AJAX Galerie?"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/meta_boxes/page_template_metabox.php:73
+msgid "Gallery Sortable?"
+msgstr "Sortable galerie?"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/meta_boxes/page_template_metabox.php:74
+msgid "Should the sorting options based on categories be displayed?"
+msgstr "În cazul în care opțiunile de sortare bazat pe categorii fi afișate?"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/meta_boxes/page_template_metabox.php:79
+msgid "Show Titles"
+msgstr "Afișați titlurile"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/meta_boxes/page_template_metabox.php:80
+msgid "Display Title of entry?"
+msgstr "Afișarea titlului de intrare?"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/meta_boxes/page_template_metabox.php:84
+msgid "Posts per page:"
+msgstr "Mesaje pe pagină:"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/meta_boxes/page_template_metabox.php:86
+msgid "How many items should be displayed per page?"
+msgstr "Câte elemente ar trebui să fie afișate pe pagină?"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/meta_boxes/slider_metabox.php:4
+msgid "Choose Slider Images Effect "
+msgstr "Alege Slider Efectul Imagini"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/post_types/register_gallery_post.php:4
+msgid "Gallery Items"
+msgstr "Galerie Articole"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/post_types/register_gallery_post.php:5
+msgid "Gallery Entry"
+msgstr "galerie de intrare"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/post_types/register_gallery_post.php:6
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/post_types/register_slider_post.php:8
+msgid "Add New"
+msgstr "Adauga nou"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/post_types/register_gallery_post.php:7
+msgid "Add New Gallery Entry"
+msgstr "Adaugă Intrare Galeria Nouă"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/post_types/register_gallery_post.php:8
+msgid "Edit Gallery Entry"
+msgstr "Editare intrare Galerie"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/post_types/register_gallery_post.php:9
+msgid "New Gallery Entry"
+msgstr "Galeria nouă intrare"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/post_types/register_gallery_post.php:10
+msgid "View Gallery Entry"
+msgstr "Vezi Intrarea Galerie"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/post_types/register_gallery_post.php:11
+msgid "Search Gallery Entries"
+msgstr "Galerie de căutare intrările"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/post_types/register_gallery_post.php:12
+msgid "No Gallery Entries found"
+msgstr "Nu există intrări Galerie găsit"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/post_types/register_gallery_post.php:13
+msgid "No Gallery Entries found in Trash"
+msgstr "Nici un intrările Galerie găsit în Coșul de gunoi"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/post_types/register_slider_post.php:6
+msgid "Slides"
+msgstr "diapozitive"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/post_types/register_slider_post.php:7
+msgid "Slide"
+msgstr "diapozitiv"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/post_types/register_slider_post.php:9
+msgid "Add New Slide"
+msgstr "Adăugați New Slide"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/post_types/register_slider_post.php:10
+msgid "Edit Slide"
+msgstr "Edita Diapozitiv"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/post_types/register_slider_post.php:11
+msgid "New Slide"
+msgstr "Nou Diapozitiv"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/post_types/register_slider_post.php:12
+msgid "View Slide"
+msgstr "Vezi diapozitiv"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/post_types/register_slider_post.php:13
+msgid "Search Slides"
+msgstr "Caută Diapozitive"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/post_types/register_slider_post.php:14
+msgid "No Slides found"
+msgstr "Nu există diapozitive găsit"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/post_types/register_slider_post.php:15
+msgid "No Slides found in Trash"
+msgstr "Nici un Diapozitive găsite în Coșul de gunoi"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:148
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:149
+msgid "General Settings"
+msgstr "Setări Generale"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:150
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:151
+msgid "Integration"
+msgstr "integrare"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:152
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:153
+msgid "Appearance"
+msgstr "aspect"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:164
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:468
+msgid "General"
+msgstr "General"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:165
+msgid "Home"
+msgstr "acasă"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:166
+msgid "Blog"
+msgstr "blog"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:167
+msgid "Social Media Links"
+msgstr "Link-uri Social Media"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:168
+msgid "Footer"
+msgstr "subsol"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:182
+msgid "Logo"
+msgstr "logo"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:185
+msgid ""
+"Upload a logo for your theme, or specify the image address of your online "
+"logo. (http://yoursite.com/logo.png)"
+msgstr ""
+"Încărcați un logo pentru tema dvs., sau specifica adresa imaginii "
+"dumneavoastră on-line logo-ul. (http://yoursite.com/logo.png)"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:186
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:194
+msgid "Upload Image"
+msgstr "Încărcați imagine"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:187
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:195
+msgid "Remove"
+msgstr "scoate"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:190
+msgid "Favicon"
+msgstr "favicon"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:193
+msgid ""
+"Upload a favicon for your theme, or specify the image address of your online."
+"(http://yoursite.com/favicon.gif)"
+msgstr ""
+"Încărcați un favicon pentru tema dvs., sau specifica imaginii adresa  "
+"dumneavoastră online. (Http://yoursite.com/favicon.gif)"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:198
+msgid "Menu Font"
+msgstr "meniul Font"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:201
+msgid "Select Menu Font"
+msgstr "Selectați Meniu Font"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:206
+msgid "Select Menu font for the theme."
+msgstr "Selectați fontul Meniu pentru tema."
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:209
+msgid "Title Font"
+msgstr "Font titlu"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:212
+msgid "Select Title Font"
+msgstr "Selectați Font titlu"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:217
+msgid "Select Title's font for the theme."
+msgstr "Selectați fontul titlului pentru tema."
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:220
+msgid "Script Font"
+msgstr "script font"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:223
+msgid "Select Script Font"
+msgstr "Selectați Font Script"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:228
+msgid "Select Script font for the theme."
+msgstr "Selectați fontul Script pentru tema."
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:231
+msgid "Body Font"
+msgstr "organismul Font"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:234
+msgid "Select Body Font"
+msgstr "Selectați fontul organism"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:239
+msgid "Select Body's font for the theme."
+msgstr "Selectați fontul corpului pentru tema."
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:242
+msgid "Footer Title Font"
+msgstr "Titlul subsol Font"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:245
+msgid "Select Footer Font"
+msgstr "Selectați Font subsol"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:250
+msgid "Select Footer Heading's font for the theme."
+msgstr "Selectați fontul clasifică la poziția subsol pentru tema."
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:259
+msgid "Homepage Settings"
+msgstr "Principala pagină Setări"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:262
+msgid ""
+"Select which page to display on your Frontpage. If left blank the Blog will "
+"be displayed"
+msgstr ""
+"Selectați care pentru a afișa pagina care pe prima pagină dumneavoastră. În "
+"cazul în gol stânga blogul va fi afișată"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:265
+msgid "Banners&frasl;Sliders"
+msgstr "Bannere / Sliders"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:268
+msgid "Used Sliders"
+msgstr "Sliders Second Hand"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:287
+msgid "Available Sliders"
+msgstr "Glisoarele Disponibile"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:312
+msgid "Banners&frasl;Sliders Settings"
+msgstr "Bannere / slidere Setări"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:326
+msgid "You can choose animation effects here."
+msgstr "Puteți alege efecte de animație aici."
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:337
+msgid "Slider animation speed &amp; pause time settings (in ms) "
+msgstr "Viteza de animație slider & setările de pauză (în ms)"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:340
+msgid ""
+"Please enter slider transition(eg: 500) &amp; pasue time( eg:3000) in ms"
+msgstr "vă rugăm să introduceți tranziție indicatorul & timp pasue în ms"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:343
+msgid "Slices"
+msgstr "felii"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:345
+msgid ""
+"For slice animation( SliceDown, SliceDownLeft, SliceUp, SliceUpDown, "
+"sliceUpDownLeft and sliceUpLeft ), you can give number of slices here. For "
+"eg: 15"
+msgstr ""
+"Pentru animație felie (SliceDown, SliceDownLeft, SliceUp, SliceUpDown, "
+"sliceUpDownLeft și sliceUpLeft) pe care le pot da numărul de felii aici. De "
+"ex: 15"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:347
+msgid "Box animation settings"
+msgstr "Animație caseta Setări"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:350
+msgid ""
+"For box animation( boxRain, boxRainGrow, boxRainGrowReverse, boxRainReverse "
+"&amp; boxRandom ), you can give number of columns(eg: 5) &amp; rows(eg: 8) "
+msgstr ""
+"Pentru animație caseta (boxRain, boxRainGrow, boxRainGrowReverse, "
+"boxRainReverse & boxRandom), vă pot da numărul de coloane și rânduri"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:351
+msgid "Others"
+msgstr "alții"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:354
+msgid "Would you like to pasue the slider on hover?"
+msgstr "doriți să pasue cursorul pe hover?"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:359
+msgid "Would you like to use random slider?"
+msgstr "Doriți să utilizați cursorul aleatoare?"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:364
+msgid "Would you like to show slider navigation?"
+msgstr "Doriți să arate navigare cursorul?"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:369
+msgid "Would you like to show control navigation on bottom of slider?"
+msgstr "Doriți să arate navigare controlul asupra partea de jos a cursorului?"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:374
+msgid ""
+"Select your Frontpage and save your settings. After that , you have an "
+"option to choose sliders here :)"
+msgstr ""
+"Selectați Frontpage dvs. și salvați setările. După aceea, aveți o opțiune de "
+"a alege slidere aici :)"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:383
+msgid "Blogpage Settings"
+msgstr "blogpage setări"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:386
+msgid ""
+"Select which page to display as your Blog Page. If left blank no blog will "
+"be displayed"
+msgstr ""
+"selecta ce pagini pentru a afișa ca pagina de blog. În cazul în care stânga "
+"martor nu va fi afisat pe blog-ul"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:401
+msgid "Link for the facebook icon"
+msgstr "Link pentru pictograma Facebook"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:404
+msgid ""
+"Link to your Facebook page, with http://. Leaving it blank will keep the "
+"Facebook icon suppressed. "
+msgstr ""
+"legătură către pagina de Facebook, cu http://. Lăsându-l gol va păstra "
+"pictograma Facebook suprimat."
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:407
+msgid "Link for the RSS icon"
+msgstr "Link-ul pentru icon-uri RSS"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:410
+msgid ""
+"You can use your own feed URL (with http://). Paste your Feedburner URL here "
+"to let readers see it in your website."
+msgstr ""
+"Aveți posibilitatea să utilizați adresa URL alimentare proprie (cu http://). "
+"Lipiți URL-ul dvs. FeedBurner aici să-l văd cititorii site-ul dvs.."
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:413
+msgid "Link for the twitter icon"
+msgstr "Link pentru pictograma stare de nervozitate"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:416
+msgid ""
+"Your Twitter user name, please. Leaving it blank will keep the Twitter icon "
+"suppressed."
+msgstr ""
+"Numele dvs. de utilizator Twitter, vă rog. Lăsându-l gol va păstra Twitter "
+"pictograma suprimate."
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:419
+msgid "Link for the YouTube icon"
+msgstr "Link pentru pictograma YouTube"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:422
+msgid ""
+"Link to your YouTube page, with http://. Leaving it blank will keep the "
+"YouTube icon suppressed. "
+msgstr ""
+"legătură către pagina dvs. de pe YouTube, cu http://. Lăsându-l gol va "
+"păstra pictograma YouTube suprimat."
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:425
+msgid "Link for the Flickr icon"
+msgstr "Link pentru icoana Flickr"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:428
+msgid ""
+"Link to your Flickr page, with http://. Leaving it blank will keep the "
+"Flickr icon suppressed. "
+msgstr ""
+"legătură către pagina dvs. Flickr, cu http://. Lăsându-l gol va păstra "
+"Flickr pictograma suprimate."
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:439
+msgid "Footer Columns"
+msgstr "coloane subsol"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:450
+msgid "Copyright Text"
+msgstr "drepturile de autor text"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:453
+msgid ""
+"You can paste your copyright text in this box. This will be automatically "
+"added to the footer."
+msgstr ""
+"Aveți posibilitatea să lipiți textul drepturilor de autor în această casetă. "
+"Acest lucru va fi adăugat automat la subsol."
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:469
+msgid "Post"
+msgstr "Post"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:470
+msgid "Page"
+msgstr "pagină"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:495
+msgid "Add code to the &lt;head&gt;  of your blog"
+msgstr "Adauga codul de la <head> a blog-ul dvs."
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:501
+msgid "Enable header code"
+msgstr "Activează codul de antet"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:502
+msgid ""
+"Any code you place here will appear in the head section of every page of "
+"your blog. This is useful when you need to add javascript or css to all "
+"pages."
+msgstr ""
+"Orice cod ce plasati aici, va apărea în partea de capul fiecărei pagini de "
+"blog-ul dvs.. Acest lucru este util atunci când aveți nevoie să adăugați "
+"JavaScript sau CSS pentru toate paginile."
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:507
+msgid "Add code to the &lt;/body&gt;"
+msgstr "Adauga codul de la </ body>"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:513
+msgid "Enable body code"
+msgstr "Activează codul de corp"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:514
+msgid ""
+"You can paste your Google Analytics or other website tracking code in this "
+"box. This will be automatically added to the footer."
+msgstr ""
+"Aveți posibilitatea să lipiți Google Analytics sau alte site-ul codul de "
+"urmărire în această casetă. Acest lucru va fi adăugat automat la subsol."
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:523
+msgid "Add code to the top of your posts"
+msgstr "Adauga codul de la partea de sus a mesajele dumneavoastră"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:529
+msgid "Enable single post top code"
+msgstr "Activează un singur cod de top mesa"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:530
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:541
+msgid ""
+"Any code you place here will be placed at the top of all single posts. This "
+"is useful if you are looking to integrating things such as social "
+"bookmarking links."
+msgstr ""
+"Orice cod ce plasati aici vor fi plasate la partea de sus a toate posturile "
+"unice. Acest lucru este util în cazul în care sunteți în căutarea pentru "
+"integrarea lucruri, cum ar fi link-uri de marcare socială."
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:534
+msgid "Add code to the bottom of your posts, before the comments"
+msgstr ""
+"Adauga codul de la partea de jos a mesajele dumneavoastră, înainte de "
+"comentarii"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:540
+msgid "Enable single post bottom code"
+msgstr "Activează un singur cod de jos mesaj"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:545
+msgid "Show share buttons"
+msgstr "Afișați butoanele de parts"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:550
+msgid "Enable Facebook"
+msgstr "Activează Facebook"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:557
+msgid "Enable Google Plus"
+msgstr "Activați Google Plus"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:564
+msgid "Enable Twitter"
+msgstr "Activați twitter"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:566
+msgid "Please choose appropriate social media share buttons to show in post."
+msgstr ""
+"Va rugam sa alegeti sociale adecvate mass-media parts butoanele pentru a "
+"arăta în post."
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:577
+msgid "Add code to the top of your pages"
+msgstr "Adauga codul de la partea de sus a paginilor dvs."
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:584
+msgid "Enable single page top code "
+msgstr "Activează singur cod de sus a paginii"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:585
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:597
+msgid ""
+"Any code you place here will be placed at the top of all single pages. This "
+"is useful if you are looking to integrating things such as social "
+"bookmarking links."
+msgstr ""
+"Orice cod ce plasati aici vor fi plasate la partea de sus a tuturor "
+"paginilor unice. Acest lucru este util în cazul în care sunteți în căutarea "
+"pentru integrarea lucruri, cum ar fi link-uri de marcare socială."
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:590
+msgid "Add code to the bottom of your pages, before the comments"
+msgstr ""
+"Adauga codul de la partea de jos a paginilor dvs., înainte de comentarii"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:596
+msgid "Enable single page bottom code"
+msgstr "Activează singur cod de jos paginii"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:611
+msgid "Theme"
+msgstr "temă"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:615
+msgid "Current Theme"
+msgstr "Tema curent"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:628
+msgid "Available Theme"
+msgstr "disponibil Tema"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_shortcodes/enquiry_form.php:14
+msgid "Message"
+msgstr "mesaj"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_shortcodes/shortcodes.php:277
+msgid "Designation"
+msgstr "denumire"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_switcher/include.php:20
+msgid "Spa"
+msgstr "spa"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_switcher/include.php:21
+msgid "Restaurant"
+msgstr "restaurant"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_widgets/widget_custom_post.php:24
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_widgets/widget_social_links.php:52
+msgid "Title:"
+msgstr "titlu:"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_widgets/widget_custom_post.php:29
+msgid "Choose post type:"
+msgstr "Alege tipul de mesaj:"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_widgets/widget_custom_post.php:40
+msgid "Show Popular Posts"
+msgstr "Arată Posturi populare"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_widgets/widget_custom_post.php:43
+msgid "Show Image"
+msgstr "Afișare imagine"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_widgets/widget_custom_post.php:46
+msgid "No.of posts to show:"
+msgstr "Mesaje No.of pentru a vedea:"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_widgets/widget_social_links.php:57
+msgid "Digg:"
+msgstr "Digg:"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_widgets/widget_social_links.php:61
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_widgets/widget_social_links.php:68
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_widgets/widget_social_links.php:75
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_widgets/widget_social_links.php:83
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_widgets/widget_social_links.php:90
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_widgets/widget_social_links.php:97
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_widgets/widget_social_links.php:105
+msgid "Enable"
+msgstr "da posibilitatea"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_widgets/widget_social_links.php:64
+msgid "Facebook:"
+msgstr "Facebook:"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_widgets/widget_social_links.php:71
+msgid "Flickr:"
+msgstr "Flickr:"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_widgets/widget_social_links.php:79
+msgid "RSS:"
+msgstr "RSS:"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_widgets/widget_social_links.php:86
+msgid "Stumblr:"
+msgstr "Stumblr:"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_widgets/widget_social_links.php:93
+msgid "Twitter:"
+msgstr "Twitter:"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_widgets/widget_social_links.php:101
+msgid "Youtube:"
+msgstr "youtube:"

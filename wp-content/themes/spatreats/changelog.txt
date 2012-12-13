@@ -1,0 +1,44 @@
+***Spa Treats Changelog ***
+
+2012.08.20 - version 1.0
+ * First release!
+2012.09.26 - version 1.1 
+ * Responsive
+
+2012.09.28 - version 1.2 
+ *Fixed issues in Resposive version.
+ *We've added 
+	1. Option to change the slider width & height in admin panel.
+	2. Enabling/Disabling "Responsive" display :)
+	3. Option to disable the slider in Responsive mode.
+
+
+Files Added:
+	1. jquery.smartresize.js - to fix the isotope issue in "responsive mode"
+	2. responsive.css
+
+2012.10.28 - version 1.3
+ * Fixed issues in "Twitter Widget".	
+ * We have added "Custom Link" option to "Sliders".
+ * Based on users requests , we've added
+	1. Option to Globally disable comments on Post and page. ( @ integration menu-> post & page tab).
+	2. Option to Globally disable Breadcrumbs. (@ General settings -> General tab).
+
+ * We have added new custom post called "Catalog" to show items in their store.
+ * We have added tpl-catalog.php & taxonomy-item_category.php pages to show "Catalog Items".
+
+Files Added:
+	1.tpl-catalog.php
+	2.taxonomy-item_category.php
+	3.register_catalog_post.php
+	4.stickyfloat.js
+	5.smoothscroll.js
+
+2012.11.15 - version 1.4
+ * Fixed Gallery issue - Responsive Gallery preview
+ * At Backend fixed Globally Disable Comments on Pages checked option
+ * Shortcode buttons center aligned issue
+
+
+	
+	

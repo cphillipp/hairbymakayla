@@ -1,0 +1,20 @@
+@charset "utf-8";
+
+/* CSS Document */
+
+
+.booknow-form select.day { min-width:70px; }
+
+.gallery-container .one-fourth .inner-entry { width:232px !important; float:left; }
+
+.gallery-container .one-fourth.with-sidebar .inner-entry { width:174px !important; float:left; }	
+
+.gallery-container .one-half .inner-entry { width:468px !important; float:left; }
+
+.gallery-container .one-half.with-sidebar .inner-entry { width:348px !important; float:left; }
+
+.gallery-container .one-third .inner-entry { width:312px !important; float:left; }
+
+.gallery-container .one-third.with-sidebar .inner-entry { width:232px !important; float:left; }	 
+
+.gallery-container .column.full-width .inner-entry { width:940px !important; float:left; }

@@ -1,0 +1,83 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*----*****---- << Responsive >> ----*****----*/	
+
+	/*----*****---- << Smaller than standard 960 >> ----*****----*/	
+	
+	/* Smaller than standard 960 (devices and browsers) */
+	
+	@media only screen and (max-width:1200px) {
+		
+		/*----*****---- << Newsletter >> ----*****----*/
+		#newsletter { background:url(images/newsletter-bg-medium.png) no-repeat; }
+		
+	}
+		
+	/*----*****---- << Tablet (Portrait) >> ----*****----*/	
+	
+    /* Note: Design for a width of 768px, Gutter: 30px, Unit: 32px */
+
+    @media only screen and (min-width: 768px) and (max-width: 959px) {
+		
+		/*----*****---- << Header >> ----*****----*/
+		#top-menu { background:url(images/menu-bg-tablet.jpg) repeat-x; }
+		
+		/*----*****---- << Newsletter >> ----*****----*/
+		#newsletter { background:url(images/newsletter-bg-tablet.png) no-repeat; }
+	}
+	
+	/*----*****---- << Mobile (Landscape) >> ----*****----*/	
+	
+    /* Note: Design for a width of 480px */
+
+    @media only screen and (min-width: 480px) and (max-width: 767px) {
+		
+		/*----*****---- << Header >> ----*****----*/
+		#header { background:url(images/header.jpg) left 40px repeat-x; }
+		#top-menu { background:none; }
+		
+		.nivo-caption { left:60px; width:200px; top:30%; }
+		
+		/*----*****---- << Newsletter >> ----*****----*/
+		#newsletter { background:url(images/newsletter-bg-mobile.png) no-repeat; }	
+		
+		.sticky .post-title .featured { background:url(images/featured-mobile.png) right no-repeat; }
+		
+		/*----*****---- << Gallery >> ----*****----*/	
+		.gallery-details-inner .no-margin.column.two-third, .single-gallery-details-inner .no-margin.column.two-third { border-top:1px solid #fffae4; }
+	}
+	
+	/*----*****---- << Mobile >> ----*****----*/	
+
+	/* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
+	@media only screen and (max-width: 479px) {
+		
+		/*----*****---- << Header >> ----*****----*/
+		#header { background:url(images/header.jpg) left 40px repeat-x; }
+		#top-menu { background:none; }
+		
+		.nivo-caption { display:none !important; }
+		
+		/*----*****---- << Newsletter >> ----*****----*/
+		#newsletter { background:url(images/newsletter-bg-mobile-port.png) no-repeat; }
+			
+		/*----*****---- << 404 >> ----*****----*/
+		.back-btn { background:url(images/back-btn-mobile.png) no-repeat; }
+		
+		/*----*****---- << Gallery >> ----*****----*/	
+		.gallery-details-inner .no-margin.column.two-third, .single-gallery-details-inner .no-margin.column.two-third{ border-top:1px solid #fffae4; }
+		
+	}
+	
+	/*----*****---- << Mobile >> ----*****----*/	
+
+	/* Crappy Android portrait Size (devices and browsers) */
+	@media only screen and (max-width:320px) {
+		
+		/*----*****---- << Newsletter >> ----*****----*/
+		#newsletter { background:url(images/newsletter-bg-android.png) no-repeat; }
+		
+		.post-thumb img { border-width:3px; }
+		
+	}

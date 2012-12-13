@@ -1,0 +1,20 @@
+@charset "utf-8";
+/* CSS Document */
+.pagination ul li { padding:0px;  }
+.pagination ul { position:relative; top:-10px; }
+
+#newsletter { clear:none; }
+
+.big-ico-button { padding:8px 0px 0px 0px; height:72px; }
+.big-ico-button span { float:left; padding-left:90px; }
+.big-ico-button span { background-position:10px 8px !important; padding-bottom:9px; }
+
+.one-fourth .gallery-title { width:233px; }
+.one-fourth.with-sidebar .gallery-title { width:173px; }
+.one-half .gallery-title { width:468px; }
+.one-half.with-sidebar .gallery-title { width:348px; }
+.one-third .gallery-title { width:311px; }
+.one-third.with-sidebar .gallery-title { width:232px; }	
+
+#newsletter input[type="submit"] { padding-bottom:0px; padding-top:1px; }
+.comment-author cite { margin-left:-15px; }

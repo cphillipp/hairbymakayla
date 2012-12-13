@@ -1,0 +1,995 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SpaTreats\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-09-13 17:23+0530\n"
+"PO-Revision-Date: 2012-09-13 18:19+0530\n"
+"Last-Translator: \n"
+"Language-Team: Iamdesigning <ram@iamdesigning.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: D:\\wamp\\www\\wp\\themes\\spatreats\\wp-content"
+"\\themes\\spatreats\n"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/404.php:7
+msgid "Probably 404!"
+msgstr "Probablement 404!"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/404.php:9
+msgid "Back"
+msgstr "arrière"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/archive.php:10
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/index.php:29
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/search.php:29
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/tpl-gallery.php:147
+msgid "Nothing Found"
+msgstr "rien trouvé"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/archive.php:11
+msgid "Apologies, but no results were found for the requested archive."
+msgstr ""
+"Toutes nos excuses, mais aucun résultat n'a été trouvé dans l'archive "
+"demandée."
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/comments.php:2
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+"Ce poste est protégé par mot. Entrez le mot de passe pour voir les "
+"commentaires."
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/comments.php:5
+msgid "No Comments"
+msgstr "Pas de commentaire"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/comments.php:5
+msgid "1 Comment"
+msgstr "1 Commentaire"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/comments.php:5
+msgid "% Comments"
+msgstr "Commentaires%"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/comments.php:11
+msgid "Older Comments"
+msgstr "Commentaires âgées"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/comments.php:12
+msgid "Newer Comments"
+msgstr "Commentaires récents"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/comments.php:24
+msgid "Comments are closed."
+msgstr "Les commentaires sont fermés."
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/comments.php:32
+msgid "Reply"
+msgstr "répondre"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/comments.php:34
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_shortcodes/enquiry_form.php:12
+msgid "Name"
+msgstr "nom"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/comments.php:35
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/tpl-booknow.php:36
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_shortcodes/enquiry_form.php:13
+msgid "Email"
+msgstr "email"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/comments.php:38
+msgid "Comment"
+msgstr "commenter"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/comments.php:39
+msgid "comment"
+msgstr "commenter"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/footer.php:5
+msgid "Subscribe to Newsletter"
+msgstr "Inscription à la newsletter"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/index.php:8
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/search.php:8
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/single.php:14
+msgid "Categories"
+msgstr "catégories"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/index.php:9
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/search.php:9
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/single.php:15
+msgid "Archive"
+msgstr "archives"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/index.php:30
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/search.php:30
+msgid "Apologies, but no posts found in blog."
+msgstr "Toutes mes excuses, mais pas de messages trouvés dans le blog."
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/searchform.php:1
+msgid "Search our site"
+msgstr "Recherchez sur notre site"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/tpl-booknow.php:27
+msgid "First Name"
+msgstr "Prénom"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/tpl-booknow.php:28
+msgid "Last Name"
+msgstr "Nom de famille"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/tpl-booknow.php:29
+msgid "Gender"
+msgstr "sexe"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/tpl-booknow.php:31
+msgid "Male"
+msgstr "masculin"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/tpl-booknow.php:32
+msgid "Female"
+msgstr "féminin"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/tpl-booknow.php:35
+msgid "Telephone"
+msgstr "téléphone"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/tpl-booknow.php:37
+msgid "Address"
+msgstr "adresse"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/tpl-booknow.php:38
+msgid "Date of Treatment"
+msgstr "Date du traitement"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/tpl-booknow.php:40
+msgid "Day"
+msgstr "jour"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/tpl-booknow.php:54
+msgid "Month"
+msgstr "mois"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/tpl-booknow.php:62
+msgid "Year"
+msgstr "année"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/tpl-booknow.php:66
+msgid "Preferred time"
+msgstr "temps préféré"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/tpl-booknow.php:68
+msgid "Time"
+msgstr "temps"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/tpl-booknow.php:83
+msgid "Type of Treatment"
+msgstr "Type de traitement"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/tpl-booknow.php:92
+msgid "No. of Persons "
+msgstr "Nombre de personnes"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/tpl-booknow.php:96
+msgid "Special Requests"
+msgstr "Demandes spéciales"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/tpl-booknow.php:100
+msgid "Book Now"
+msgstr "Réserver"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/tpl-gallery.php:75
+msgid "All"
+msgstr "tous"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/tpl-gallery.php:148
+msgid "Apologies, but no items found in our gallery."
+msgstr "Toutes nos excuses, mais aucun article dans notre galerie."
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/ajax_calls.php:57
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/loops/content-single-gallery.php:21
+msgid "Prev"
+msgstr "Précédent"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/ajax_calls.php:57
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/loops/content-single-gallery.php:21
+msgid "Next"
+msgstr "suivant"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/utils.php:17
+msgid "Tag archive for"
+msgstr "Tag archive pour"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/utils.php:20
+msgid "Category archive for"
+msgstr "Archives pour la catégorie"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/utils.php:26
+msgid "Search for"
+msgstr "Rechercher"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/utils.php:35
+msgid "Not Found"
+msgstr "Introuvable"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/utils.php:133
+msgid "Archive for Category: "
+msgstr "Archive pour la catégorie:"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/utils.php:138
+msgid "Archive for Author: "
+msgstr "Archive par auteur:"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/utils.php:141
+msgid "Archive for Tag: "
+msgstr "Archive pour Tag:"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/utils.php:143
+msgid "LOST"
+msgstr "PERDU"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/utils.php:145
+msgid "Search"
+msgstr "Rechercher"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/utils.php:181
+msgid "Pingback:"
+msgstr "pingback:"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/utils.php:183
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/utils.php:217
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/loops/content-page.php:8
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/loops/content-search.php:50
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/loops/content-single-gallery.php:34
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/loops/content-single.php:61
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/loops/content.php:51
+msgid "Edit"
+msgstr "éditer"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/utils.php:205
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s at %2$s"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/utils.php:215
+msgid "Your comment is awaiting moderation."
+msgstr "Votre commentaire est en attente de modération."
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/loops/content-releated-gallery.php:15
+msgid " Related Posts "
+msgstr "Messages Liés"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/loops/content-search.php:6
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/loops/content.php:5
+msgid "Featured"
+msgstr "Sélection"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/loops/content-search.php:9
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/loops/content.php:9
+msgid "Read More"
+msgstr "lire la suite"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/loops/content-single-gallery.php:27
+msgid "Prev Post"
+msgstr "Précédent Message"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/loops/content-single-gallery.php:28
+msgid "Next Post"
+msgstr "Suivant Poster"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/meta_boxes/gallery_metabox.php:4
+msgid "Gallery Images Settings"
+msgstr "Galerie des images Réglages"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/meta_boxes/gallery_metabox.php:14
+msgid "Currently used images"
+msgstr "Images actuellement utilisés"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/meta_boxes/gallery_metabox.php:15
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:269
+msgid "Please, add some sliders"
+msgstr "S'il vous plaît, ajouter quelques curseurs"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/meta_boxes/gallery_metabox.php:34
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:314
+msgid "Choose effects:"
+msgstr "Choisissez effets:"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/meta_boxes/gallery_metabox.php:45
+msgid "Add Image"
+msgstr "Ajouter une image"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/meta_boxes/page_template_metabox.php:15
+msgid ""
+"Additional settings appear here, when one of page templates is selected "
+"( Page Attributes -> Template )"
+msgstr ""
+"Paramètres supplémentaires apparaissent ici, lorsque l'un des modèles de "
+"page est sélectionnée (Attributs de page -> Template)"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/meta_boxes/page_template_metabox.php:17
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/meta_boxes/page_template_metabox.php:29
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/meta_boxes/page_template_metabox.php:90
+msgid "Full Width Page"
+msgstr "Page pleine largeur"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/meta_boxes/page_template_metabox.php:22
+msgid "Email id:"
+msgstr "E-mail:"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/meta_boxes/page_template_metabox.php:24
+msgid "Please give email id to whom , you need to send book now requests."
+msgstr ""
+"S'il vous plaît donner id e-mail à qui vous devez envoyer réserver demandes."
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/meta_boxes/page_template_metabox.php:36
+msgid "Gallery Columns"
+msgstr "Colonnes Galerie"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/meta_boxes/page_template_metabox.php:37
+msgid "How many columns should be displayed?"
+msgstr "Combien de colonnes doit être affiché?"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/meta_boxes/page_template_metabox.php:42
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:443
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_widgets/widget_custom_post.php:32
+msgid "Select"
+msgstr "sélectionner"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/meta_boxes/page_template_metabox.php:49
+msgid "Which categories should be used for the gallery?"
+msgstr "Quelles sont les catégories doivent être utilisés pour la galerie?"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/meta_boxes/page_template_metabox.php:50
+msgid ""
+"You can select multiple categories here. The Gallrey Page that you choose "
+"below will then show all posts from those categories, along with a sort "
+"option for each category."
+msgstr ""
+"Vous pouvez sélectionner plusieurs catégories ici. La page Gallrey que vous "
+"choisissez ci-dessous affiche alors tous les messages provenant de ces "
+"catégories, avec une option de tri pour chaque catégorie."
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/meta_boxes/page_template_metabox.php:67
+msgid "Gallery Details?"
+msgstr "Détails Gallery?"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/meta_boxes/page_template_metabox.php:68
+msgid ""
+"Should the gallery details be opened on the same page when someone clicks a "
+"gallery item - known as AJAX Gallery?"
+msgstr ""
+"Si les détails Galerie être ouvert à la même page quand quelqu'un clique sur "
+"un élément de la galerie - Galerie connu sous le nom AJAX?"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/meta_boxes/page_template_metabox.php:73
+msgid "Gallery Sortable?"
+msgstr "galerie triables?"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/meta_boxes/page_template_metabox.php:74
+msgid "Should the sorting options based on categories be displayed?"
+msgstr "Si les options de tri en fonction des catégories s'affiche?"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/meta_boxes/page_template_metabox.php:79
+msgid "Show Titles"
+msgstr "Afficher les titres des"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/meta_boxes/page_template_metabox.php:80
+msgid "Display Title of entry?"
+msgstr "Afficher Titre de l'entrée?"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/meta_boxes/page_template_metabox.php:84
+msgid "Posts per page:"
+msgstr "Messages par page:"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/meta_boxes/page_template_metabox.php:86
+msgid "How many items should be displayed per page?"
+msgstr "Combien d'articles doivent être affichés par page?"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/meta_boxes/slider_metabox.php:4
+msgid "Choose Slider Images Effect "
+msgstr "Choisissez Curseur Effet Images"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/post_types/register_gallery_post.php:4
+msgid "Gallery Items"
+msgstr "Galerie Articles"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/post_types/register_gallery_post.php:5
+msgid "Gallery Entry"
+msgstr "Entrée Galerie"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/post_types/register_gallery_post.php:6
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/post_types/register_slider_post.php:8
+msgid "Add New"
+msgstr "Ajouter un nouveau"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/post_types/register_gallery_post.php:7
+msgid "Add New Gallery Entry"
+msgstr "Ajouter une entrée Nouvelle Galerie"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/post_types/register_gallery_post.php:8
+msgid "Edit Gallery Entry"
+msgstr "Editer une galerie"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/post_types/register_gallery_post.php:9
+msgid "New Gallery Entry"
+msgstr "Entrée Nouvelle Galerie"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/post_types/register_gallery_post.php:10
+msgid "View Gallery Entry"
+msgstr "Voir Entrée Galerie"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/post_types/register_gallery_post.php:11
+msgid "Search Gallery Entries"
+msgstr "Entrées Galerie Rechercher"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/post_types/register_gallery_post.php:12
+msgid "No Gallery Entries found"
+msgstr "Aucune candidature Galerie trouvé"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/post_types/register_gallery_post.php:13
+msgid "No Gallery Entries found in Trash"
+msgstr "Aucune candidature Galerie trouvé dans la corbeille"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/post_types/register_slider_post.php:6
+msgid "Slides"
+msgstr "diapositives"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/post_types/register_slider_post.php:7
+msgid "Slide"
+msgstr "glissement"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/post_types/register_slider_post.php:9
+msgid "Add New Slide"
+msgstr "Ajouter une nouvelle diapositive"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/post_types/register_slider_post.php:10
+msgid "Edit Slide"
+msgstr "Modifier la diapositive"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/post_types/register_slider_post.php:11
+msgid "New Slide"
+msgstr "nouvelle diapositive"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/post_types/register_slider_post.php:12
+msgid "View Slide"
+msgstr "Voir Slide"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/post_types/register_slider_post.php:13
+msgid "Search Slides"
+msgstr "diapositives Rechercher"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/post_types/register_slider_post.php:14
+msgid "No Slides found"
+msgstr "Pas de diapositives trouvé"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/post_types/register_slider_post.php:15
+msgid "No Slides found in Trash"
+msgstr "Pas de diapositives dans la corbeille"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:148
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:149
+msgid "General Settings"
+msgstr "Paramètres généraux"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:150
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:151
+msgid "Integration"
+msgstr "intégration"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:152
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:153
+msgid "Appearance"
+msgstr "apparence"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:164
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:468
+msgid "General"
+msgstr "général"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:165
+msgid "Home"
+msgstr "maison"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:166
+msgid "Blog"
+msgstr "blog"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:167
+msgid "Social Media Links"
+msgstr "Liens sociaux avec les médias"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:168
+msgid "Footer"
+msgstr "Pied de page"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:182
+msgid "Logo"
+msgstr "Logo"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:185
+msgid ""
+"Upload a logo for your theme, or specify the image address of your online "
+"logo. (http://yoursite.com/logo.png)"
+msgstr ""
+"Chargez un logo pour votre thème, ou spécifier l'adresse d'image de votre "
+"logo en ligne. (http://yoursite.com/logo.png)"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:186
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:194
+msgid "Upload Image"
+msgstr "Envoyer une image"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:187
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:195
+msgid "Remove"
+msgstr "enlever"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:190
+msgid "Favicon"
+msgstr "Favicon"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:193
+msgid ""
+"Upload a favicon for your theme, or specify the image address of your online."
+"(http://yoursite.com/favicon.gif)"
+msgstr ""
+"Ajouter une favicon pour votre thème, ou spécifier l'adresse de l'image de "
+"votre ligne. (Http://yoursite.com/favicon.gif)"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:198
+msgid "Menu Font"
+msgstr "police du menu"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:201
+msgid "Select Menu Font"
+msgstr "Sélectionnez Menu police"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:206
+msgid "Select Menu font for the theme."
+msgstr "Sélectionnez la police du menu pour le thème."
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:209
+msgid "Title Font"
+msgstr "Title Font"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:212
+msgid "Select Title Font"
+msgstr "Sélectionnez Police du titre"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:217
+msgid "Select Title's font for the theme."
+msgstr "Sélectionnez Police du titre pour le thème."
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:220
+msgid "Script Font"
+msgstr "Script Font"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:223
+msgid "Select Script Font"
+msgstr "Sélectionnez la police Script"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:228
+msgid "Select Script font for the theme."
+msgstr "Sélectionnez la police Script pour le thème."
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:231
+msgid "Body Font"
+msgstr "Font corps"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:234
+msgid "Select Body Font"
+msgstr "Sélectionner la police du corps"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:239
+msgid "Select Body's font for the theme."
+msgstr "Sélectionnez la police du corps pour le thème."
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:242
+msgid "Footer Title Font"
+msgstr "Police du titre de bas de page"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:245
+msgid "Select Footer Font"
+msgstr "Sélectionnez la police Footer"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:250
+msgid "Select Footer Heading's font for the theme."
+msgstr "Sélectionnez la police-tête Pied de page pour le thème."
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:259
+msgid "Homepage Settings"
+msgstr "Réglages Page d'accueil"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:262
+msgid ""
+"Select which page to display on your Frontpage. If left blank the Blog will "
+"be displayed"
+msgstr ""
+"Sélectionnez la page à afficher sur votre Frontpage. Si laissé vide le blog "
+"sera affiché"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:265
+msgid "Banners&frasl;Sliders"
+msgstr "bannières&frasl;Curseurs"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:268
+msgid "Used Sliders"
+msgstr "Sliders occasion"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:287
+msgid "Available Sliders"
+msgstr "Sliders disponibles"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:312
+msgid "Banners&frasl;Sliders Settings"
+msgstr "Bannières&frasl;curseurs Réglages"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:326
+msgid "You can choose animation effects here."
+msgstr "Vous pouvez choisir des effets d'animation ici."
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:337
+msgid "Slider animation speed &amp; pause time settings (in ms) "
+msgstr ""
+"Vitesse d'animation curseur  &amp; les paramètres de temps de pause (en ms)"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:340
+msgid ""
+"Please enter slider transition(eg: 500) &amp; pasue time( eg:3000) in ms"
+msgstr ""
+"S'il vous plaît entrer transition curseur (ex: 500) &amp; le temps pasue "
+"(ex: 3000) en ms"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:343
+msgid "Slices"
+msgstr "tranches"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:345
+msgid ""
+"For slice animation( SliceDown, SliceDownLeft, SliceUp, SliceUpDown, "
+"sliceUpDownLeft and sliceUpLeft ), you can give number of slices here. For "
+"eg: 15"
+msgstr ""
+"Pour l'animation tranche (SliceDown, SliceDownLeft, SliceUp, SliceUpDown, "
+"sliceUpDownLeft et sliceUpLeft), vous pouvez donner le nombre de tranches "
+"ici. Pour exemple: 15"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:347
+msgid "Box animation settings"
+msgstr "Paramètres d'animation Box"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:350
+msgid ""
+"For box animation( boxRain, boxRainGrow, boxRainGrowReverse, boxRainReverse "
+"&amp; boxRandom ), you can give number of columns(eg: 5) &amp; rows(eg: 8) "
+msgstr ""
+"Pour l'animation boîte (boxRain, boxRainGrow, boxRainGrowReverse, "
+"boxRainReverse &amp;boxRandom), vous pouvez donner le nombre de colonnes "
+"(par exemple: 5) &amp; lignes (par exemple: 8)"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:351
+msgid "Others"
+msgstr "autres"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:354
+msgid "Would you like to pasue the slider on hover?"
+msgstr "Voulez-vous pasue le curseur sur le vol stationnaire?"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:359
+msgid "Would you like to use random slider?"
+msgstr "Voulez-vous utiliser le curseur au hasard?"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:364
+msgid "Would you like to show slider navigation?"
+msgstr "Voulez-vous montrer de navigation curseur?"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:369
+msgid "Would you like to show control navigation on bottom of slider?"
+msgstr "Voulez-vous montrer contrôle de la navigation sur le bas du curseur?"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:374
+msgid ""
+"Select your Frontpage and save your settings. After that , you have an "
+"option to choose sliders here :)"
+msgstr ""
+"Sélectionnez votre Frontpage et enregistrer vos paramètres. Après cela, vous "
+"avez la possibilité de choisir curseurs ici :)"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:383
+msgid "Blogpage Settings"
+msgstr "Réglages Blogpage"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:386
+msgid ""
+"Select which page to display as your Blog Page. If left blank no blog will "
+"be displayed"
+msgstr ""
+"Sélectionnez la page à afficher comme page Blog. Si elle n'est pas vide pas "
+"de blog s'affiche"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:401
+msgid "Link for the facebook icon"
+msgstr "Lien de l'icône de facebook"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:404
+msgid ""
+"Link to your Facebook page, with http://. Leaving it blank will keep the "
+"Facebook icon suppressed. "
+msgstr ""
+"Lien vers votre page Facebook, par http://. Laissant le champ vide gardera "
+"l'icône Facebook supprimée."
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:407
+msgid "Link for the RSS icon"
+msgstr "Lien pour l'icône RSS"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:410
+msgid ""
+"You can use your own feed URL (with http://). Paste your Feedburner URL here "
+"to let readers see it in your website."
+msgstr ""
+"Vous pouvez utiliser l'URL de votre propre flux (avec http://). Collez votre "
+"URL Feedburner ici pour permettre aux lecteurs de le voir dans votre site "
+"web."
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:413
+msgid "Link for the twitter icon"
+msgstr "Lien pour l'icône twitter"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:416
+msgid ""
+"Your Twitter user name, please. Leaving it blank will keep the Twitter icon "
+"suppressed."
+msgstr ""
+"Votre nom d'utilisateur Twitter, s'il vous plaît. Laissant vide tiendra le "
+"Twitter icon supprimé."
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:419
+msgid "Link for the YouTube icon"
+msgstr "Lien pour l'icône YouTube"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:422
+msgid ""
+"Link to your YouTube page, with http://. Leaving it blank will keep the "
+"YouTube icon suppressed. "
+msgstr ""
+"Lien vers votre page YouTube, par http://. Laissant vide gardera l'icône "
+"YouTube supprimé."
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:425
+msgid "Link for the Flickr icon"
+msgstr "Lien pour l'icône Flickr"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:428
+msgid ""
+"Link to your Flickr page, with http://. Leaving it blank will keep the "
+"Flickr icon suppressed. "
+msgstr ""
+"Lien vers votre page Flickr, par http://. Laissant vide tiendra le Flickr "
+"icône supprimée."
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:439
+msgid "Footer Columns"
+msgstr "Colonnes de bas de page"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:450
+msgid "Copyright Text"
+msgstr "Droits d'auteur du texte"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:453
+msgid ""
+"You can paste your copyright text in this box. This will be automatically "
+"added to the footer."
+msgstr ""
+"Vous pouvez coller votre texte dans cette boîte de droits d'auteur. Ce "
+"seront automatiquement ajoutés dans le pied."
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:469
+msgid "Post"
+msgstr "poster"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:470
+msgid "Page"
+msgstr "page"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:495
+msgid "Add code to the &lt;head&gt;  of your blog"
+msgstr "Ajoutez du code au &lt;head&gt; de votre blog"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:501
+msgid "Enable header code"
+msgstr "Activer le code d'en-tête"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:502
+msgid ""
+"Any code you place here will appear in the head section of every page of "
+"your blog. This is useful when you need to add javascript or css to all "
+"pages."
+msgstr ""
+"Tout code que vous placez ici apparaîtra dans la section head de chaque page "
+"de votre blog. Cette fonction est utile lorsque vous avez besoin d'ajouter "
+"javascript ou css pour toutes les pages."
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:507
+msgid "Add code to the &lt;/body&gt;"
+msgstr "Ajouter du code pour la balise  &lt;/body&gt;"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:513
+msgid "Enable body code"
+msgstr "Activer le code du corps"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:514
+msgid ""
+"You can paste your Google Analytics or other website tracking code in this "
+"box. This will be automatically added to the footer."
+msgstr ""
+"Vous pouvez coller vos Google Analytics ou autres codes de suivi site dans "
+"cette case. Ce seront automatiquement ajoutés dans le pied."
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:523
+msgid "Add code to the top of your posts"
+msgstr "Ajoutez du code au-dessus de vos messages"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:529
+msgid "Enable single post top code"
+msgstr "Activer seul code top de mât"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:530
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:541
+msgid ""
+"Any code you place here will be placed at the top of all single posts. This "
+"is useful if you are looking to integrating things such as social "
+"bookmarking links."
+msgstr ""
+"Tout code que vous placez ici sera placé dans la partie supérieure de "
+"l'ensemble des messages simples. Ceci est utile si vous cherchez à intégrer "
+"des éléments tels que des liens de social bookmarking."
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:534
+msgid "Add code to the bottom of your posts, before the comments"
+msgstr "Ajoutez du code au bas de vos messages avant de les commentaires"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:540
+msgid "Enable single post bottom code"
+msgstr "Activer le code unique pied de mât"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:545
+msgid "Show share buttons"
+msgstr "Montrer boutons de partage"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:550
+msgid "Enable Facebook"
+msgstr "Activer Facebook"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:557
+msgid "Enable Google Plus"
+msgstr "Activer Google Plus"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:564
+msgid "Enable Twitter"
+msgstr "Activer Twitter"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:566
+msgid "Please choose appropriate social media share buttons to show in post."
+msgstr ""
+"S'il vous plaît choisir sociales appropriées boutons de médias d'actions à "
+"afficher dans poste."
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:577
+msgid "Add code to the top of your pages"
+msgstr "Ajoutez du code au-dessus de vos pages"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:584
+msgid "Enable single page top code "
+msgstr "Activer le code unique haut de page"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:585
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:597
+msgid ""
+"Any code you place here will be placed at the top of all single pages. This "
+"is useful if you are looking to integrating things such as social "
+"bookmarking links."
+msgstr ""
+"Tout code que vous placez ici sera placé en haut de toutes les pages "
+"simples. Ceci est utile si vous cherchez à intégrer des éléments tels que "
+"des liens de social bookmarking."
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:590
+msgid "Add code to the bottom of your pages, before the comments"
+msgstr "Ajoutez du code au bas de vos pages, avant les commentaires"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:596
+msgid "Enable single page bottom code"
+msgstr "Activer seul code en bas de page"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:611
+msgid "Theme"
+msgstr "thème"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:615
+msgid "Current Theme"
+msgstr "actuel thème"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_options/settings.php:628
+msgid "Available Theme"
+msgstr "disponible thème"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_shortcodes/enquiry_form.php:14
+msgid "Message"
+msgstr "message"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_shortcodes/shortcodes.php:277
+msgid "Designation"
+msgstr "désignation"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_switcher/include.php:20
+msgid "Spa"
+msgstr "spa"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_switcher/include.php:21
+msgid "Restaurant"
+msgstr "restaurant"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_widgets/widget_custom_post.php:24
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_widgets/widget_social_links.php:52
+msgid "Title:"
+msgstr "Titre:"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_widgets/widget_custom_post.php:29
+msgid "Choose post type:"
+msgstr "Choisissez le type de message:"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_widgets/widget_custom_post.php:40
+msgid "Show Popular Posts"
+msgstr "Voir les contributions populaires"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_widgets/widget_custom_post.php:43
+msgid "Show Image"
+msgstr "Afficher l'image"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_widgets/widget_custom_post.php:46
+msgid "No.of posts to show:"
+msgstr "Les numeros des messages à montrer:"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_widgets/widget_social_links.php:57
+msgid "Digg:"
+msgstr "Digg:"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_widgets/widget_social_links.php:61
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_widgets/widget_social_links.php:68
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_widgets/widget_social_links.php:75
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_widgets/widget_social_links.php:83
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_widgets/widget_social_links.php:90
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_widgets/widget_social_links.php:97
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_widgets/widget_social_links.php:105
+msgid "Enable"
+msgstr "permettre"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_widgets/widget_social_links.php:64
+msgid "Facebook:"
+msgstr "Facebook:"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_widgets/widget_social_links.php:71
+msgid "Flickr:"
+msgstr "Flickr:"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_widgets/widget_social_links.php:79
+msgid "RSS:"
+msgstr "RSS:"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_widgets/widget_social_links.php:86
+msgid "Stumblr:"
+msgstr "Stumblr:"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_widgets/widget_social_links.php:93
+msgid "Twitter:"
+msgstr "Twitter:"
+
+#: D:\wamp\www\wp\themes\spatreats\wp-content\themes\spatreats/framework/theme_widgets/widget_social_links.php:101
+msgid "Youtube:"
+msgstr "Youtube:"

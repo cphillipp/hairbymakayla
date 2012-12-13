@@ -37,10 +37,11 @@ color: #FFFFFF !important;
 }
 .box-content-with-design {
 background: #232323 url(images/design-border.png) right top no-repeat;
-background-color: #232323 !important;
+background-color: #eae2c9 !important;
 }
+.box-content-with-design h3{ color:#000 !important; }
 td {
-color: #e4fffd !important;
+color: #343434 !important;
 }
 table.price-table td.even {
 color: #059e9b !important;

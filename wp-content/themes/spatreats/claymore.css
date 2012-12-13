@@ -2,6 +2,9 @@ body {
 background: #000!important;
 color:#FFF !important;
 }
+h1, h2, h3, h4, h5, h6 {
+color: #fffae4 !important;
+}
 ul.menu li.current_page_item, ul.menu li:hover {
 border-bottom: 5px solid #666666 !important;
 }
@@ -27,4 +30,13 @@ text-shadow: -1px -1px 0px #454545 !important;
 }
 .breadcrumb a {
 color: #FFFFFF !important;
+}
+.box-content-with-design {
+background: #232323 url(images/design-border.png) right top no-repeat !important;
+}
+td {
+color: #e4fffd !important;
+}
+table.price-table td.even {
+color: #059e9b !important;
 }

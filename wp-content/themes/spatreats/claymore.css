@@ -1,6 +1,6 @@
 body {
 background: #000!important;
-color:#e4fffd !important;
+color:#eae2c9 !important;
 }
 h1, h2, h3, h4, h5, h6 {
 color: #fffae4 !important;
@@ -47,7 +47,7 @@ table.price-table td.even {
 color: #059e9b !important;
 }
 blockquote {
-color: #e4fffd !important;
+color: #eae2c9 !important;
 border: 1px solid #454545 !important;
 background: #232323 url(images/quote.png) 10px 15px no-repeat;
 background-color: #232323 !important; 

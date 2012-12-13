@@ -19,7 +19,7 @@
     
 	<!-- **CSS - stylesheets** -->
 	<link rel="stylesheet" type="text/css" media="all" href="<?php bloginfo( 'stylesheet_url' ); ?>" />
-	<link rel="stylesheet" type="text/css" media="all" href="/claymore/<?php bloginfo( 'stylesheet_url' ); ?>" />
+	<link rel="stylesheet" type="text/css" media="all" href="claymore/style.css" />
     
 
     <!--[if IE 7]>

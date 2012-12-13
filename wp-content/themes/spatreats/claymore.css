@@ -8,3 +8,22 @@ border-bottom: 5px solid #666666 !important;
 ul.menu li {
 border-bottom: 5px solid #000000 !important;
 }
+ul.menu li a span {
+color: #999999 !important;
+}
+#home-slider {
+background-image:none !important;
+}
+.slider-wrapper {
+border-bottom: 5px solid #059e9b !important;
+background: #5fa023 url(images/loading.gif) 50% 50% no-repeat;
+}
+.home #main {
+background-image:none !important;
+}
+.breadcrumb {
+text-shadow: -1px -1px 0px #454545 !important;
+}
+.breadcrumb a {
+color: #FFFFFF !important;
+}

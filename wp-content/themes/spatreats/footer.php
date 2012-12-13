@@ -2,14 +2,14 @@
 
         <!-- **Newsletter** -->
         <div id="newsletter">
-        	<h2> <?php _e('Subscribe to Newsletter','spatreats');?></h2>
+        	<!--<h2> </?php _e('Subscribe to Newsletter','spatreats');?></h2>
             <form action="#" method="get">
             	<p><input name="name" type="text" onblur="this.value=(this.value=='') ? 'Enter Name' : this.value;" 
                 	   onfocus="this.value=(this.value=='Enter Name') ? '' : this.value;" value="Enter Name" /></p>
                 <p><input name="name" type="text" onblur="this.value=(this.value=='') ? 'Enter Email Address' : this.value;" 
                 	   onfocus="this.value=(this.value=='Enter Email Address') ? '' : this.value;" value="Enter Email Address" /></p>
                 <p><input name="submit" type="submit" value="Subscribe" /></p>
-            </form>
+            </form>-->
         </div><!-- **Newsletter - End** -->
         
 

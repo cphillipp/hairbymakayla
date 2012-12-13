@@ -5,6 +5,9 @@ color:#e4fffd !important;
 h1, h2, h3, h4, h5, h6 {
 color: #fffae4 !important;
 }
+h1.title, h2.title, h3.title, h4.title, h5.title, h6.title {
+text-shadow: -1px -1px 0px #000000 !important;
+}
 ul.menu li.current_page_item, ul.menu li:hover {
 border-bottom: 5px solid #666666 !important;
 }
@@ -21,6 +24,7 @@ background:none !important;
 .slider-wrapper {
 border-bottom: 5px solid #059e9b !important;
 background: #5fa023 url(images/loading.gif) 50% 50% no-repeat;
+background-color: #059e9b !important;
 }
 .home #main {
 background-image:none !important;

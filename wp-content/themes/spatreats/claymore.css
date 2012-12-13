@@ -71,3 +71,12 @@ background-color: #454545 !important;
 .footer-bottom p {
 color: #666666 !important;
 }
+.blue-border {
+border: 5px solid #059e9b !important;
+}
+ul.contact-details p a {
+color: #ebaa98 !important;
+}
+.notice {
+color: #aeaeae !important;
+}

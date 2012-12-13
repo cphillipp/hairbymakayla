@@ -13,6 +13,7 @@ color: #999999 !important;
 }
 #home-slider {
 background-image:none !important;
+background:none !important;
 }
 .slider-wrapper {
 border-bottom: 5px solid #059e9b !important;

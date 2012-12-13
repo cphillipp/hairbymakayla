@@ -55,3 +55,6 @@ background-color: #232323 !important;
 background: #232323 !important;
 border-bottom: 5px solid #bfb092;
 }
+.footer-bottom p {
+color: #666666 !important;
+}

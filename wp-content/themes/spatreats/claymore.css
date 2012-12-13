@@ -1,5 +1,6 @@
 body {
 background: #000!important;
+color:#FFF !important;
 }
 ul.menu li.current_page_item, ul.menu li:hover {
 border-bottom: 5px solid #666666 !important;

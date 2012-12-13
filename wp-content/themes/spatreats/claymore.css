@@ -9,13 +9,13 @@ h1.title, h2.title, h3.title, h4.title, h5.title, h6.title {
 text-shadow: -1px -1px 0px #000000 !important;
 }
 ul.menu li.current_page_item, ul.menu li:hover {
-border-bottom: 5px solid #666666 !important;
+border-bottom: 5px solid #ebaa98 !important;
 }
 ul.menu li {
 border-bottom: 5px solid #000000 !important;
 }
 ul.menu li a span {
-color: #999999 !important;
+color: #eae2c9 !important;
 }
 #home-slider {
 background-image:none !important;
